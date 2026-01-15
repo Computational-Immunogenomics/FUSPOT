@@ -20,4 +20,10 @@ To reproduce the our analysis, you need data request access to both the LINX and
 - [1_figures](1_figures/)
     - Code to reproduce figure 2 and supplementary figures in the manuscript. 
 - map.r,shortcuts.r,settings.r
-    - Files to specify file locations, helper functions, and plot settings. 
+    - Files to specify file locations, helper functions, and plot settings.
+
+---
+# Links to Hartwig tools repositories for LINX and NEO. 
+
+LINX: https://github.com/hartwigmedical/hmftools/tree/master/linx
+NEO: https://github.com/hartwigmedical/hmftools/tree/master/neo
