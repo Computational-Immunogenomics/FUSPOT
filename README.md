@@ -23,7 +23,6 @@ To reproduce the our analysis, you need data request access to both the LINX and
     - Files to specify file locations, helper functions, and plot settings.
 
 ---
-# Links to Hartwig tools repositories for LINX and NEO. 
-
-LINX: https://github.com/hartwigmedical/hmftools/tree/master/linx
-NEO: https://github.com/hartwigmedical/hmftools/tree/master/neo
+# Hartwig tools
+- LINX: https://github.com/hartwigmedical/hmftools/tree/master/linx
+- NEO: https://github.com/hartwigmedical/hmftools/tree/master/neo
